@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advance C, Python and JAVA**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to collaborate on **Python**
 
 - 📫 How to reach me **kumarashisha54@gmail.com**
 
