@@ -1,21 +1,21 @@
 
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h1 align="center">Hi 👋, This side Ashish Kumar</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=129ashish&label=Profile%20views&color=0e75b6&style=flat" alt="129ashish" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=129ashish" alt="129ashish" /></a> </p>-->
 
-- 🔭 I’m currently working on **JAVA & PYTHON**
+- 🔭 I’m currently working on **PYTHON  & some of popular frameworks.**
 
-- 🌱 I’m currently learning **Advance C, Python and JAVA**
+- 🌱 I’m currently learning **Python, ML stuff**
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **ML projects**
 
 - 📫 How to reach me **kumarashisha54@gmail.com**
 
-- ⚡ fact **Don't have regrets : It's ok to try and fail and rwetry**
+- ⚡ fact **Don't have regrets : It's ok to try and fail and retry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
